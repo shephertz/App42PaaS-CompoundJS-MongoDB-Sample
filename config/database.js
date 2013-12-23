@@ -9,6 +9,6 @@ module.exports = {
     },
     production: {
         driver:   'mongodb',
-        url:      'mongodb://<User Name>:<Password>@<VM IP>:<VM PORT>/<Database name>
+        url:      'mongodb://<User Name>:<Password>@<VM IP>:<VM PORT>/<Database name>'
     }
 };
